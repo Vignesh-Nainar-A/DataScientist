@@ -1,1 +1,1 @@
-
+This notebook has an interactive ML model for predicting annual house rent.
